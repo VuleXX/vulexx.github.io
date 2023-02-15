@@ -88,6 +88,7 @@ transition: transform 0.25s;
   display: flex;
   justify-content: space-around;
 }
+
 #anim {
    max-width: 50vw;
 }
