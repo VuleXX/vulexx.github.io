@@ -87,6 +87,7 @@ transition: transform 0.25s;
 .lottie {
   display: flex;
   justify-content: space-around;
+  max-width: 50vw;
 }
 
 .main_container{
